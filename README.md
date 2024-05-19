@@ -31,7 +31,7 @@ To get started with beautifying your GitHub profile, follow these steps:
 
 2. **Clone the forked repository:**
    ```sh
-   git clone https://github.com/your-username/beautify-github-profile.git
+   git clone https://github.com/borghei/beautify-github-profile.git
    cd beautify-github-profile
    ```
 
@@ -45,10 +45,10 @@ To get started with beautifying your GitHub profile, follow these steps:
 Badges are a great way to highlight key aspects of your profile. Here are some examples:
 
 - **GitHub Followers Badge:**
-  ![GitHub Followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)
+  ![GitHub Followers](https://img.shields.io/github/followers/borghei?label=Followers&style=social)
 
 - **Starred Repositories Badge:**
-  ![GitHub Stars](https://img.shields.io/github/stars/your-username?label=Stars&style=social)
+  ![GitHub Stars](https://img.shields.io/github/stars/borghei?label=Stars&style=social)
 
 ### Custom Images
 
@@ -64,12 +64,12 @@ Dynamic content can make your profile more engaging. Here are some tools:
 
 - **GitHub Readme Stats:**
   ```markdown
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=borghei&show_icons=true)
   ```
 
 - **Current Project:**
   ```markdown
-  ![Current Project](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo)
+  ![Current Project](https://github-readme-stats.vercel.app/api/pin/?username=borghei&repo=beautify_github)
   ```
 
 ## 💅 Styling Tips
@@ -121,39 +121,3 @@ We welcome contributions to this repository! If you have tips, tricks, or tools 
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Happy coding! 💻✨
-```
-
-### How to Use
-
-1. **Create a New Repository on GitHub:**
-   - Go to [GitHub](https://github.com/) and log in.
-   - Click the `+` icon at the top right corner and select `New repository`.
-   - Name your repository `beautify-github-profile`.
-   - Add a description: "A collection of tips, tricks, and tools to beautify your GitHub profile."
-   - Set the repository to public.
-   - Initialize the repository with a README.
-
-2. **Clone the Repository Locally:**
-   ```sh
-   git clone https://github.com/your-username/beautify-github-profile.git
-   cd beautify-github-profile
-   ```
-
-3. **Add the README.md Content:**
-   Replace the default README.md content with the one provided above.
-
-4. **Commit and Push the Changes:**
-   ```sh
-   git add README.md
-   git commit -m "Initial commit with README.md"
-   git push origin main
-   ```
-
-5. **Share Your Repository:**
-   - Copy the URL of your repository and share it with others.
-
-This structure should help you create a detailed and helpful repository for beautifying GitHub profiles. Feel free to adjust the content as needed to better suit your needs.
